@@ -1,1 +1,1 @@
-hello world, this is an example to undertand how to use git for administrate direstoris.
+hello world, this is an example to undertand how to use git to update my repositories.
