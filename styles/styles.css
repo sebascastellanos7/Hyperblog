@@ -1,14 +1,14 @@
 body{
     text-align: center;
     font-family: Arial;
-    color: rgb(15, 139, 79);
+    color: rgb(25, 56, 215);
     font-size: 16px;
     margin: 0;
     padding: 0;
 }
 #cabecera
 {
-    background: #014c1d;
+    background: #34a504;
     box-shadow: 0px 5px 30px 0px rgba(0,0,0,0,0.75);
     color: white;
     font-weight: bold;
